@@ -18,12 +18,12 @@ sections:
 - name: default
   title: Track 2
 layout: proceedings
-key: DrorKDD2011
+id: DrorKDD2011
 month: 0
 abstract: 
 origpdf: 
 pdf: "./DrorKDD2011/DrorKDD2011.pdf"
-editors:
+editor:
 - given: Gideon
   family: Dror
 - given: Yehuda
