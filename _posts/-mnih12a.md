@@ -1,0 +1,23 @@
+---
+title: Taxonomy-Informed Latent Factor Models for Implicit Feedback
+abstract: We describe a latent-factor-model-based approach to the Track 2 task of
+  KDD Cup 2011, which required learning to discriminate between highly rated and unrated
+  items from a large dataset of music ratings. We take the pairwise ranking route,
+  training our models to rank the highly rated items above the unrated items that
+  are sampled from the same distribution. Using the item relationship information
+  from the provided taxonomy to constrain item representations results in improved
+  predictive performance. Providing the model with features summarizing the user’s
+  rating history as it relates to the item being ranked leads to further gains, producing
+  the best single model result on Track 2.
+pdf: "./mnih12a/mnih12a.pdf"
+layout: inproceedings
+key: mnih12a
+month: 0
+firstpage: 169
+lastpage: 181
+origpdf: http://jmlr.org/proceedings/papers/v18/mnih12a/mnih12a.pdf
+sections: 
+authors:
+- given: A.
+  family: Mnih
+---

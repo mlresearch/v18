@@ -1,0 +1,29 @@
+---
+section: track1
+title: A Linear Ensemble of Individual and Blended Modelsfor Music Rating Prediction
+abstract: 'Track 1 of KDDCup 2011 aims at predicting the rating behavior of users
+  in the Yahoo! Music system. At National Taiwan University, we organize a course
+  that teams up students to work on both tracks of KDDCup 2011. For trackÂ 1, we first
+  tackle the problem by building variants of existing individual models, including
+  Matrix Factorization, Restricted Boltzmann Machine, k-Nearest Neighbors, Probabilistic
+  Latent Semantic Analysis, Probabilistic Principle Component Analysis and Supervised
+  Regression. We then blend the individual models along with some carefully extracted
+  features in a non-linear manner. A large linear ensemble that contains both the
+  individual and the blended models is learned and taken through some post-processing
+  steps to form the final solution. The four stages: individual model building, non-linear
+  blending, linear ensemble and post-processing lead to a successful final solution,
+  within which techniques on feature engineering and aggregation (blending and ensemble
+  learning) play crucial roles. Our team is the first prize winner of both tracks
+  of KDD Cup 2011.'
+pdf: "./chen12a/chen12a.pdf"
+layout: inproceedings
+key: chen12a
+month: 0
+firstpage: 21
+lastpage: 60
+origpdf: http://jmlr.org/proceedings/papers/v18/chen12a/chen12a.pdf
+sections: 
+authors:
+- given: P.-L. Chen
+  family: al
+---

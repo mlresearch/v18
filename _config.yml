@@ -1,0 +1,39 @@
+# Site settings
+# Auto generated from v18.bib
+---
+booktitle: Proceedings of KDD Cup 2011
+publisher: JMLR Workshop and Conference Proceedings
+logoright: logo.jpg
+volume: 18
+year: '2011'
+shortname: KDD Cup 2011
+sections:
+- name: introduction
+  title: Introduction
+- name: track1
+  title: Track 1
+- name: default
+  title: Track 2
+layout: proceedings
+key: DrorKDD2011
+month: 0
+abstract: 
+origpdf: 
+pdf: "./DrorKDD2011/DrorKDD2011.pdf"
+editors:
+- given: Gideon
+  family: Dror
+- given: Yehuda
+  family: Koren
+- given: Markus
+  family: Weimer
+title: Proceedings of KDD Cup 2011
+conference: Proceedings of KDD Cup 2011
+email: ''
+description: Proceedings of KDD Cup 2011
+url: http://proceedings.mlr.press
+baseurl: "/v18"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
