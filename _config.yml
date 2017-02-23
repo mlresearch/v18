@@ -20,9 +20,9 @@ sections:
 layout: proceedings
 id: DrorKDD2011
 month: 0
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./DrorKDD2011/DrorKDD2011.pdf"
+pdf: http://proceedings.pmlr.press/DrorKDD2011/DrorKDD2011.pdf
 editor:
 - given: Gideon
   family: Dror
@@ -31,7 +31,6 @@ editor:
 - given: Markus
   family: Weimer
 title: Proceedings of KDD Cup 2011
-conference: Proceedings of KDD Cup 2011
 email: ''
 description: Proceedings of KDD Cup 2011
 url: http://proceedings.mlr.press
@@ -40,8 +39,15 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v18
+conference:
+  name: 
+  url: 
+  location: 
+  dates:
+  - 2011-08-21
 analytics:
   google:
     tracking_id: UA-92432422-1

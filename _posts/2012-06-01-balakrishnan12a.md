@@ -3,9 +3,9 @@ title: Combining Predictors for Recommending Music:the False Positives’ approa
   KDD Cup track 2
 abstract: We describe our solution for the KDD Cup 2011 track 2 challenge. Our solution
   relies heavily on ensembling together diverse individual models for the prediction
-  task, and achieved a final leaderboard/Test 1 misclassification rate of 3.8863\%.
+  task, and achieved a final leaderboard/Test 1 misclassification rate of 3.8863%.
   This paper provides details on both the modeling and ensemble creation steps.
-pdf: "./balakrishnan12a/balakrishnan12a.pdf"
+pdf: http://proceedings.pmlr.press/balakrishnan12a/balakrishnan12a.pdf
 layout: inproceedings
 id: balakrishnan12a
 month: 0
@@ -17,6 +17,15 @@ sections:
 author:
 - given: S. Balakrishnan
   family: al
-date: '2012-06-01 00:03:19'
+date: 2012-06-01
 publisher: PMLR
+container-title: Proceedings of KDD Cup 2011
+volume: '18'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 6
+  - 1
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
