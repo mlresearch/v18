@@ -5,18 +5,18 @@ abstract: We describe our solution for the KDD Cup 2011 track 2 challenge. Our s
   relies heavily on ensembling together diverse individual models for the prediction
   task, and achieved a final leaderboard/Test 1 misclassification rate of 3.8863%.
   This paper provides details on both the modeling and ensemble creation steps.
-pdf: http://proceedings.pmlr.press/balakrishnan12a/balakrishnan12a.pdf
+pdf: http://jmlr.org/proceedings/papers/v18/balakrishnan12a/balakrishnan12a.pdf
 layout: inproceedings
 id: balakrishnan12a
 month: 0
 firstpage: 199
 lastpage: 213
 page: 199-213
-origpdf: http://jmlr.org/proceedings/papers/v18/balakrishnan12a/balakrishnan12a.pdf
 sections: 
 author:
 - given: S. Balakrishnan
   family: al
+reponame: v18
 date: 2012-06-01
 address: 
 publisher: PMLR
