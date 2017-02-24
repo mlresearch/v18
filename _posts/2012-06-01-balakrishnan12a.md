@@ -7,6 +7,7 @@ abstract: We describe our solution for the KDD Cup 2011 track 2 challenge. Our s
   This paper provides details on both the modeling and ensemble creation steps.
 pdf: http://proceedings.mlr.press/v18/balakrishnan12a/balakrishnan12a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: balakrishnan12a
 month: 0
 firstpage: 199
