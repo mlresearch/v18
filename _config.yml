@@ -41,6 +41,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 21 Aug
 url: http://proceedings.mlr.press
 baseurl: "/v18"
 twitter_username: mlresearch
@@ -50,6 +51,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v18
+bibtex_copy: true
 email: ''
 conference:
   name: Proceedings of KDD Cup 2011
