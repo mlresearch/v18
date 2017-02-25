@@ -20,6 +20,8 @@ series: Proceedings of Machine Learning Research
 id: DrorKDD2011
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Gideon
   family: Dror
@@ -27,7 +29,6 @@ editor:
   family: Koren
 - given: Markus
   family: Weimer
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of KDD Cup 2011 on 21 August 2011
 

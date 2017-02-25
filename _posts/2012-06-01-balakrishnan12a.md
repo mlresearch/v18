@@ -10,6 +10,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: balakrishnan12a
 month: 0
+tex_title: Combining Predictors for Recommending Music:the False Positives’ approach
+  to KDD Cup track 2
 firstpage: 199
 lastpage: 213
 page: 199-213
