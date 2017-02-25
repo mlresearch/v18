@@ -27,9 +27,19 @@ editor:
   family: Koren
 - given: Markus
   family: Weimer
-title: Proceedings of KDD Cup 2011
-email: ''
-description: Proceedings of KDD Cup 2011
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of KDD Cup 2011 on 21 August 2011
+
+  Published as Volume 18 by the Proceedings of Machine Learning Research on 01 June 2012.
+
+  Volume Edited by:
+    Gideon Dror
+    Yehuda Koren
+    Markus Weimer
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v18"
 twitter_username: mlresearch
@@ -39,6 +49,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v18
+email: ''
 conference:
   name: Proceedings of KDD Cup 2011
   url: 
