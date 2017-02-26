@@ -15,7 +15,8 @@ tex_title: Combining Predictors for Recommending Music:the False Positives’ ap
 firstpage: 199
 lastpage: 213
 page: 199-213
-sections: 
+order: 199
+cycles: false
 author:
 - given: S. Balakrishnan
   family: al
