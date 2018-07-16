@@ -18,8 +18,36 @@ page: 199-213
 order: 199
 cycles: false
 author:
-- given: S. Balakrishnan
-  family: al
+- given: Suhrid
+  family: Balakrishnan
+  email: suhrid@research.att.com
+- given: Rensheng
+  family: Wang
+  email: rw218j@research.att.com
+- given: Carlos
+  family: Scheidegger
+  email:  cscheid@research.att.com
+- given: Angus
+  family: MacLellan
+  email: angusm@research.att.com
+- given: Yifan
+  family: Hu
+  email: yifanhu@research.att.com
+- given: Aaron
+  family: Archer
+  email: aarcher@research.att.com
+- given: Shankar
+  family: Krishnan
+  email: krishnas@research.att.com
+- given: David
+  family: Applegate
+  email: david@research.att.com
+- given: Guang Qin
+  family: Ma
+  email: gma@research.att.com
+- given: S. Tom
+  family: Au
+  email: sau@research.att.com
 date: 2012-06-01
 address: 
 publisher: PMLR
