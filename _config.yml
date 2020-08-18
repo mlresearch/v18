@@ -1,5 +1,6 @@
 ---
 booktitle: Proceedings of KDD Cup 2011
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 publisher: PMLR
 logo: logo.jpg
 volume: 18
@@ -49,6 +50,10 @@ baseurl: "/v18"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 style: pmlr
 plugins:
 - jekyll-feed
@@ -76,6 +81,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
